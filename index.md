@@ -1,9 +1,8 @@
 ## iGOG was made for iOS 6 and shows the ability to run unsigned code on iOS 6
 
 Requirements:
-Jailbroken 
 
-iDevice running iOS 6
+Jailbroken iDevice running iOS 6
 
 Appsync
 
