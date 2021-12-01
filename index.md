@@ -6,3 +6,4 @@ Jailbroken iDevice running iOS 6
 
 Appsync
 
+# Download: https://github.com/UrkiMimi/iGOG/releases/download/release/iGOG.ipa
